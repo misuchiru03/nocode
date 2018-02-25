@@ -39,7 +39,7 @@ While you still have not done anything it's time to deploy your application. By 
 ```
 
 ```
-
+ 
 It's that simple. And when it comes time to scale the application, all you have to do is:
 
 ```
